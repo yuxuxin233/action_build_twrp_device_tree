@@ -6,7 +6,7 @@ on:
       LIBRARY_NAME:
         description: 'LIBRARY_NAME'
         required: true
-        default: 'Twrp_Device_Genter'
+        default: 'Twrp_Device_RE5469'
       IMG_URL:
         description: 'IMG_URL'
         required: true
